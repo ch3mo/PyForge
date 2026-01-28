@@ -1,6 +1,7 @@
 # PyForge
 
 **A modern, lightweight Python code editor / IDE** built with **Tkinter + CustomTkinter**, featuring VS Code-inspired syntax highlighting, project management, live console, and one-click .exe building.
+<img width="1406" height="1184" alt="image" src="https://github.com/user-attachments/assets/ebd71c6f-e04a-4c23-af51-2a7b34b08b00" />
 
 
 ## ✨ Features
