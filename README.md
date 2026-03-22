@@ -2,6 +2,8 @@
 
 **A modern, lightweight Python code editor / IDE** built with **Tkinter + CustomTkinter**, featuring VS Code-inspired syntax highlighting, project management, live console, and one-click .exe building.
 <img width="1402" height="1186" alt="image" src="https://github.com/user-attachments/assets/4fed57eb-9314-4de8-93fc-d7ff7b70c82f" />
+<img width="1410" height="1189" alt="image" src="https://github.com/user-attachments/assets/d62bc1ca-a1e1-42c2-922b-c25b7a9b809d" />
+
 
 
 
