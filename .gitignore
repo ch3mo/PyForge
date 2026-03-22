@@ -26,6 +26,10 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# PyForge local workspace / bundled drops (not source)
+pyforge_projects/
+dist_bundle.zip
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
